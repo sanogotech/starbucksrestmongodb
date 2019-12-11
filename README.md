@@ -1,5 +1,7 @@
 # Spring Data REST - Starbucks example
 
+https://github.com/spring-projects/spring-data-examples/edit/master/rest/starbucks
+
 This sample app exposes 10843 Starbucks coffee shops via a RESTful API that allows to access the stores in a hypermedia based way and exposes a resource to execute geo-location search for coffee shops.
 
 ## Quickstart
