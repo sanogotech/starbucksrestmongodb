@@ -1,0 +1,8 @@
+example\springdata\rest\stores\Store.class
+example\springdata\rest\stores\Store$Address.class
+example\springdata\rest\stores\web\StoresController.class
+example\springdata\rest\stores\StoreInitializer.class
+example\springdata\rest\stores\Application.class
+example\springdata\rest\stores\StoreRepository.class
+example\springdata\rest\stores\QStore_Address.class
+example\springdata\rest\stores\QStore.class
